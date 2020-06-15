@@ -9,9 +9,9 @@ addons:
   sonarcloud:
     organization: "maksoudath"
     token:
-      secure: "CIHdFi9oj1BBMTbdbrc5y4DJ5FRqfUgGvCwaMPK3cQSQ4ypROf2EXn+ZkYcP9HQHSfZji
-e5TT24QCABzkZQP/69HLaFslBbnez8Oi4gLiRvfR5Lci3AyCSIxtQWR1agtno35iKRHtVd2JqqgQ5yP1
-5R8nKe+OJRP+Fc05zEa8Vw=" # encrypted value of your token
+      secure: "dXwtgCrpznCqqzliwHNIHm1M94n+4bwF/luq2gNfSY16NZ5WKtLu+hrlUigFh2N1EjWbA
+5ZZjuZsm7qzCoySeiW2CJhQwehy3nWwnVeGtMUXE/gTI6M20pnPmIg4eN4gnH7IbCvq9molOmfgl7F2s
+073zJv/UyQEFmqutYRebTM=" # encrypted value of your token
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
